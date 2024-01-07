@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wishwa-code
-- 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning React-Native
+- 👀 I’m interested in Business intelligence
+- 🌱 I’m currently learning Databricks
 - 📫 How to reach me https://www.linkedin.com/in/wishwa-subhasingha-2404051b5/
 
 <!---
