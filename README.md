@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Wishwa-code
-- 👀 I’m interested in Business intelligence
-- 🌱 I’m currently learning Databricks
+- 👋 Hi, I’m wishwa.
+- 👀 I’m interested in full-stack web-development, quality assurance, big data and machine learning.
+- 🌱 I’m currently learning Flutter.
 - 📫 How to reach me https://www.linkedin.com/in/wishwa-subhasingha-2404051b5/
 
 <!---
