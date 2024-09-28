@@ -1,6 +1,6 @@
 - 👋 Hi, I’m wishwa.
 - 👀 I’m interested in full-stack web-development, quality assurance, big data and machine learning.
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning for AWS developer certificate.
 - 📫 How to reach me wishwakankanamge129@gmail.com
 
 <!---
