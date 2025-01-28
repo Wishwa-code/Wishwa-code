@@ -4,6 +4,7 @@
 - Currently focus learning more about javascript,react and next...and Go.
 - 🌱 I’m currently learning for AWS developer certificate.
 - 📫 How to reach me wishwakankanamge129@gmail.com
+- checkout https://wishwa-code.github.io/portfolio/  :shipit:
 
 <!---
 Wishwa-code/Wishwa-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
