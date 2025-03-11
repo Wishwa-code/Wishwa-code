@@ -2,7 +2,7 @@
 <!---
 ✨ special ✨ 
 ![wishwa.dev](https://www.wishwa.dev/_next/image?url=%2Fimages%2Favatar.jpg&w=256&q=75)
-
+git images in this file was taken from <:https://github.com/sindresorhus/sindresorhus
 --->
 
 
