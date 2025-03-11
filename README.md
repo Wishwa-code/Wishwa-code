@@ -27,12 +27,12 @@ git images in this file was taken from <:https://github.com/sindresorhus/sindres
 
 <br> 
 
-
+<img src="go-line.svg" alt="Image" width="100" height="100" />
 
 <br> <br> <br> 
 
 
 
-![](counter.gif) ![](badge1.gif) ![](badge2.gif) ![](badge3.png) ![](badge4.gif) ![](badge5.gif) ![](badge6.gif)
+![](counter.gif) ![](badge1.gif) ![](badge2.gif) ![](badge3.png) ![](badge4.gif) ![](badge5.gif) ![](badge6.gif)![](000010.gif) ![](u3.gif) ![](sun.gif) ![](penguins.gif) ![](netscape-as.gif) ![](free.gif) ![](aolsux.gif)
 
 ![](flames.gif)
