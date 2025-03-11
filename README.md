@@ -14,7 +14,6 @@ git images in this file was taken from <:https://github.com/sindresorhus/sindres
 
 # 💻 Tech Stack:
 
-
   <div style={{
       display: 'grid',
       gridTemplateColumns: 'repeat(auto-fit, minmax(20px, 0.7fr))',
