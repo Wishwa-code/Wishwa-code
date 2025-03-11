@@ -18,11 +18,11 @@ git images in this file was taken from <:https://github.com/sindresorhus/sindres
   <div style={{
       display: 'grid',
       gridTemplateColumns: 'repeat(auto-fit, minmax(100px, 1fr))',
-      gap: '10px',
-      padding: '10px',
+      gap: '500px',
+      padding: '20px',
       textAlign: 'center',
     }}>
-    <img src="go-line.svg" alt="Image" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="typescript-original.svg" alt="TypeScript" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
     <img src="python-original.svg" alt="Python" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
     <img src="react-original.svg" alt="React" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
     <img src="reactrouter-original.svg" alt="React Router" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
@@ -38,7 +38,6 @@ git images in this file was taken from <:https://github.com/sindresorhus/sindres
     <img src="supabase-original-wordmark.svg" alt="Supabase" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
     <img src="tailwindcss-original.svg" alt="Tailwind CSS" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
     <img src="threejs-original.svg" alt="Three.js" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="typescript-original.svg" alt="TypeScript" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
     <img src="vercel-original.svg" alt="Vercel" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
     <img src="vuejs-original.svg" alt="Vue.js" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
     <img src="wordpress-original.svg" alt="WordPress" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
@@ -81,6 +80,17 @@ git images in this file was taken from <:https://github.com/sindresorhus/sindres
   </div>
 <br> 
 
+
+
+<br> <br> <br> <br> 
+
+## Icons from : [devicon.dev](https://devicon.dev/)
+## Gifs from  : [cyber.dabamos.de/88x31](https://cyber.dabamos.de/88x31/index.html)
+
+
+
+<br> <br> <br> <br> 
+
 <div style={{
     textAlign: 'center',
     width: '70%',  // Adjust this value to control the width of the gif list
@@ -96,9 +106,9 @@ git images in this file was taken from <:https://github.com/sindresorhus/sindres
   </div>
 </div>
 <br/>
-<div style={{
-  textAlign:'center',
-}}>
-  <img src="flames.gif"/>
-</div>
+  <div style={{
+    textAlign:'center',
+  }}>
+    <img src="flames.gif"/>
+  </div>
 </div>
