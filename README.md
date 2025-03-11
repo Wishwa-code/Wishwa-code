@@ -6,7 +6,7 @@
 --->
 
 
-# Hi, I’m wishwa. 👋: 
+# Hi, I’m wishwa. 👋
 
 
 
