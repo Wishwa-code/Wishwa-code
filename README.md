@@ -17,66 +17,668 @@ git images in this file was taken from <:https://github.com/sindresorhus/sindres
 
   <div style={{
       display: 'grid',
-      gridTemplateColumns: 'repeat(auto-fit, minmax(100px, 1fr))',
+      gridTemplateColumns: 'repeat(auto-fit, minmax(20px, 0.7fr))',
       gap: '500px',
       padding: '20px',
       textAlign: 'center',
     }}>
-    <img src="typescript-original.svg" alt="TypeScript" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="python-original.svg" alt="Python" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="react-original.svg" alt="React" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="reactrouter-original.svg" alt="React Router" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="redis-original.svg" alt="Redis" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="redux-original.svg" alt="Redux" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="r-original.svg" alt="R" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="rust-original.svg" alt="Rust" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="sass-original.svg" alt="Sass" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="scikitlearn-original.svg" alt="Scikit-learn" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="selenium-original.svg" alt="Selenium" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="spring-original.svg" alt="Spring" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="sqlite-original.svg" alt="SQLite" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="supabase-original-wordmark.svg" alt="Supabase" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="tailwindcss-original.svg" alt="Tailwind CSS" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="threejs-original.svg" alt="Three.js" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="vercel-original.svg" alt="Vercel" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="vuejs-original.svg" alt="Vue.js" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="wordpress-original.svg" alt="WordPress" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="yaml-original.svg" alt="YAML" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="amazonwebservices-original-wordmark.svg" alt="Amazon Web Services" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="androidstudio-original.svg" alt="Android Studio" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="c-original.svg" alt="C" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="css3-original.svg" alt="CSS3" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="dart-original.svg" alt="Dart" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="django-plain.svg" alt="Django" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="djangorest-original.svg" alt="Django REST Framework" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="docker-original.svg" alt="Docker" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="drupal-original.svg" alt="Drupal" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="elasticsearch-original.svg" alt="Elasticsearch" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="express-original-wordmark.svg" alt="Express" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="firebase-original.svg" alt="Firebase" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="flask-original.svg" alt="Flask" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="flutter-original.svg" alt="Flutter" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="flutter-plain.svg" alt="Flutter" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="framermotion-original.svg" alt="Framer Motion" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="go-original-wordmark.svg" alt="Go" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="graphql-plain.svg" alt="GraphQL" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="html5-original.svg" alt="HTML5" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="java-original.svg" alt="Java" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="javascript-original.svg" alt="JavaScript" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="json-original.svg" alt="JSON" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="kotlin-original.svg" alt="Kotlin" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="laravel-original.svg" alt="Laravel" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="linux-original.svg" alt="Linux" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="mysql-original.svg" alt="MySQL" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="neovim-original.svg" alt="Neovim" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="nextjs-original-wordmark.svg" alt="Next.js" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="openapi-original.svg" alt="OpenAPI" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="opencv-plain.svg" alt="OpenCV" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="opengl-original.svg" alt="OpenGL" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="php-original.svg" alt="PHP" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="postgresql-original.svg" alt="PostgreSQL" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="prisma-original.svg" alt="Prisma" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
-    <img src="puppeteer-original.svg" alt="Puppeteer" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+  <div
+    style={{
+      display: 'grid',
+      gridTemplateColumns: 'repeat(auto-fit, minmax(100px, 1fr))',
+      gap: '10px',
+      padding: '10px',
+      textAlign: 'center',
+    }}
+  >
+    <img
+      src="typescript-original.svg"
+      alt="TypeScript"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="python-original.svg"
+      alt="Python"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="react-original.svg"
+      alt="React"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="reactrouter-original.svg"
+      alt="React Router"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="redis-original.svg"
+      alt="Redis"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="redux-original.svg"
+      alt="Redux"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="r-original.svg"
+      alt="R"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="rust-original.svg"
+      alt="Rust"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="sass-original.svg"
+      alt="Sass"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="scikitlearn-original.svg"
+      alt="Scikit-learn"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="selenium-original.svg"
+      alt="Selenium"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="spring-original.svg"
+      alt="Spring"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="sqlite-original.svg"
+      alt="SQLite"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="supabase-original-wordmark.svg"
+      alt="Supabase"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="tailwindcss-original.svg"
+      alt="Tailwind CSS"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="threejs-original.svg"
+      alt="Three.js"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="vercel-original.svg"
+      alt="Vercel"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="vuejs-original.svg"
+      alt="Vue.js"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="wordpress-original.svg"
+      alt="WordPress"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="yaml-original.svg"
+      alt="YAML"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="amazonwebservices-original-wordmark.svg"
+      alt="Amazon Web Services"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="androidstudio-original.svg"
+      alt="Android Studio"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="c-original.svg"
+      alt="C"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="css3-original.svg"
+      alt="CSS3"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="dart-original.svg"
+      alt="Dart"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="django-plain.svg"
+      alt="Django"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="djangorest-original.svg"
+      alt="Django REST Framework"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="docker-original.svg"
+      alt="Docker"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="drupal-original.svg"
+      alt="Drupal"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="elasticsearch-original.svg"
+      alt="Elasticsearch"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="express-original-wordmark.svg"
+      alt="Express"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="firebase-original.svg"
+      alt="Firebase"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="flask-original.svg"
+      alt="Flask"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="flutter-original.svg"
+      alt="Flutter"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="framermotion-original.svg"
+      alt="Framer Motion"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="go-original-wordmark.svg"
+      alt="Go"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="graphql-plain.svg"
+      alt="GraphQL"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="html5-original.svg"
+      alt="HTML5"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="java-original.svg"
+      alt="Java"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="javascript-original.svg"
+      alt="JavaScript"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="json-original.svg"
+      alt="JSON"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="kotlin-original.svg"
+      alt="Kotlin"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="laravel-original.svg"
+      alt="Laravel"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="linux-original.svg"
+      alt="Linux"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="mysql-original.svg"
+      alt="MySQL"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="neovim-original.svg"
+      alt="Neovim"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="nextjs-original-wordmark.svg"
+      alt="Next.js"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="openapi-original.svg"
+      alt="OpenAPI"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="opencv-plain.svg"
+      alt="OpenCV"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="opengl-original.svg"
+      alt="OpenGL"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="php-original.svg"
+      alt="PHP"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="postgresql-original.svg"
+      alt="PostgreSQL"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="prisma-original.svg"
+      alt="Prisma"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
+    <img
+      src="puppeteer-original.svg"
+      alt="Puppeteer"
+      width="50"
+      height="50"
+      style={{
+        border: '1px solid #000000',
+        borderRadius: '5px',
+        padding: '20px',
+        boxSizing: 'border-box',
+      }}
+    />
   </div>
 <br> 
 
