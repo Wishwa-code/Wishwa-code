@@ -1,38 +1,104 @@
-
 <!---
 ✨ special ✨ 
 ![wishwa.dev](https://www.wishwa.dev/_next/image?url=%2Fimages%2Favatar.jpg&w=256&q=75)
 git images in this file was taken from <:https://github.com/sindresorhus/sindresorhus
 --->
 
-
 # Hi, I’m wishwa. 👋
-
-
 
 👨🏽‍🍳 React in Rust [?](https://dioxuslabs.com/) <br>📍 Colombo,LK 
 <br>:shipit: [wishwa.dev](https://www.wishwa.dev) <br>
 
 <br> 
-
-
 <br> 
 
 # 💻 Tech Stack:
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-
-
-
+  <div style={{
+      display: 'grid',
+      gridTemplateColumns: 'repeat(auto-fit, minmax(100px, 1fr))',
+      gap: '10px',
+      padding: '10px',
+      textAlign: 'center',
+    }}>
+    <img src="go-line.svg" alt="Image" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="python-original.svg" alt="Python" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="react-original.svg" alt="React" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="reactrouter-original.svg" alt="React Router" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="redis-original.svg" alt="Redis" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="redux-original.svg" alt="Redux" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="r-original.svg" alt="R" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="rust-original.svg" alt="Rust" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="sass-original.svg" alt="Sass" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="scikitlearn-original.svg" alt="Scikit-learn" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="selenium-original.svg" alt="Selenium" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="spring-original.svg" alt="Spring" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="sqlite-original.svg" alt="SQLite" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="supabase-original-wordmark.svg" alt="Supabase" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="tailwindcss-original.svg" alt="Tailwind CSS" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="threejs-original.svg" alt="Three.js" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="typescript-original.svg" alt="TypeScript" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="vercel-original.svg" alt="Vercel" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="vuejs-original.svg" alt="Vue.js" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="wordpress-original.svg" alt="WordPress" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="yaml-original.svg" alt="YAML" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="amazonwebservices-original-wordmark.svg" alt="Amazon Web Services" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="androidstudio-original.svg" alt="Android Studio" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="c-original.svg" alt="C" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="css3-original.svg" alt="CSS3" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="dart-original.svg" alt="Dart" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="django-plain.svg" alt="Django" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="djangorest-original.svg" alt="Django REST Framework" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="docker-original.svg" alt="Docker" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="drupal-original.svg" alt="Drupal" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="elasticsearch-original.svg" alt="Elasticsearch" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="express-original-wordmark.svg" alt="Express" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="firebase-original.svg" alt="Firebase" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="flask-original.svg" alt="Flask" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="flutter-original.svg" alt="Flutter" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="flutter-plain.svg" alt="Flutter" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="framermotion-original.svg" alt="Framer Motion" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="go-original-wordmark.svg" alt="Go" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="graphql-plain.svg" alt="GraphQL" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="html5-original.svg" alt="HTML5" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="java-original.svg" alt="Java" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="javascript-original.svg" alt="JavaScript" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="json-original.svg" alt="JSON" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="kotlin-original.svg" alt="Kotlin" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="laravel-original.svg" alt="Laravel" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="linux-original.svg" alt="Linux" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="mysql-original.svg" alt="MySQL" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="neovim-original.svg" alt="Neovim" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="nextjs-original-wordmark.svg" alt="Next.js" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="openapi-original.svg" alt="OpenAPI" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="opencv-plain.svg" alt="OpenCV" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="opengl-original.svg" alt="OpenGL" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="php-original.svg" alt="PHP" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="postgresql-original.svg" alt="PostgreSQL" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="prisma-original.svg" alt="Prisma" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+    <img src="puppeteer-original.svg" alt="Puppeteer" width="100" height="100" style={{ border: '1px solid #000000', borderRadius: '5px' }}/>
+  </div>
 <br> 
 
-<img src="go-line.svg" alt="Image" width="100" height="100" />
-
-<br> <br> <br> 
-
-
-
-![](counter.gif) ![](badge1.gif) ![](badge2.gif) ![](badge3.png) ![](badge4.gif) ![](badge5.gif) ![](badge6.gif)![](000010.gif) ![](u3.gif) ![](sun.gif) ![](penguins.gif) ![](netscape-as.gif) ![](free.gif) ![](aolsux.gif)
-
-![](flames.gif)
+<div style={{
+    textAlign: 'center',
+    width: '70%',  // Adjust this value to control the width of the gif list
+    margin: '0 auto' // Center the gif list horizontally
+  }}>
+  <div style={{
+    display: 'flex',
+    flexWrap: 'wrap',
+    justifyContent: 'center',
+    gap: '5px',
+  }}>
+    <img src="counter.gif"/> <img src="badge1.gif"/> <img src="badge2.gif"/> <img src="badge3.png"/> <img src="badge4.gif"/> <img src="badge5.gif"/> <img src="badge6.gif"/><img src="000010.gif"/> <img src="u3.gif"/> <img src="sun.gif"/> <img src="penguins.gif"/> <img src="netscape-as.gif"/> <img src="free.gif"/> <img src="aolsux.gif"/>
+  </div>
+</div>
+<br/>
+<div style={{
+  textAlign:'center',
+}}>
+  <img src="flames.gif"/>
+</div>
+</div>
