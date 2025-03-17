@@ -4,7 +4,11 @@
 git images in this file was taken from <:https://github.com/sindresorhus/sindresorhus
 --->
 
-# Hi, I’m wishwa. 👋
+
+# Hi, I’m wishwa. 👋  <img src="flames.gif"  width="450"  height="50"/> [wishwa.dev](https://www.wishwa.dev)
+
+<br> 
+<br> 
 
 👨🏽‍🍳 React in Rust [?](https://dioxuslabs.com/) <br>📍 Colombo,LK 
 <br>:shipit: [wishwa.dev](https://www.wishwa.dev) <br>
