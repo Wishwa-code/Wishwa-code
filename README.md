@@ -711,9 +711,5 @@ git images in this file was taken from <:https://github.com/sindresorhus/sindres
   </div>
 </div>
 <br/>
-  <div style={{
-    textAlign:'center',
-  }}>
-    <img src="flames.gif"/>
-  </div>
+
 </div>
