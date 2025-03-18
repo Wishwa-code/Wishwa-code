@@ -5,7 +5,7 @@ git images in this file was taken from <:https://github.com/sindresorhus/sindres
 --->
 
 
-# Hi, I’m wishwa. 👋  <img src="flames.gif"  width="450"  height="50"/> [wishwa.dev](https://www.wishwa.dev)
+# Hi, I’m wishwa. 👋  <img src="flames.gif"  width="200"  height="50"/> [wishwa.dev](https://www.wishwa.dev)
 
 <br> 
 <br> 
