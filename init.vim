@@ -34,6 +34,7 @@ Plug 'autozimu/LanguageClient-neovim', {
 
 " (Optional) Multi-entry selection UI.
 Plug 'junegunn/fzf'
+Plug 'https://github.com/kndndrj/nvim-dbee'
 
 call plug#end()
 
@@ -145,3 +146,32 @@ inoremap <expr> <S-Tab> pumvisible() ? "\<C-P>" : "\<C-H>"
 :imap <3-MiddleMouse> <Nop>
 :map <4-MiddleMouse> <Nop>
 :imap <4-MiddleMouse> <Nop>
+
+" Custom Header for Startify
+let g:startify_custom_header = [
+    \ '				        _..._                            ',
+    \ '				      .     .      _                ',
+    \ '				     /    .-""-\   _/ \                 ',
+    \ '				   .-|   /:.   |  |   |                 ',
+    \ '				   |  \  |:.   /.- -./                 ',
+    \ '				   | .- -;:__.    =/                 ',
+    \ '				   . =  *=|0129 _. =                  ',
+    \ '				  /   _.  |    ;                        ',
+    \ '				 ;-.- |    \   |                       ',
+    \ '				 /   | \    _\  _\                      ',
+    \ '				 \__/._;.  ==  ==\                    ',
+    \ '				         \    \   |                     ',
+    \ '				         /    /   /                     ',
+    \ '				         /-._/-._/                      ',
+    \ '				  wiz    \   `\  \                      ',
+    \ '				          -._/._/                      ',
+    \ ]
+
+" Automatically open NERDTree on the left and two vertical windows with Startify on startup
+function! StartUp()
+    NERDTree
+    wincmd w
+    wincmd v
+    Startify
+endfunction
+autocmd VimEnter * call StartUp()
