@@ -5,7 +5,7 @@ git images in this file was taken from <:https://github.com/sindresorhus/sindres
 --->
 
 
-# Hi, I’m wishwa. 👋  <img src="flames.gif"  width="200"  height="50"/> [wishwa.dev](https://www.wishwa.dev)
+# Hi, I’m wishwa. 👋  
 
 <br> 
 <br> 
@@ -709,6 +709,7 @@ git images in this file was taken from <:https://github.com/sindresorhus/sindres
   }}>
     <img src="counter.gif"/> <img src="badge1.gif"/> <img src="badge2.gif"/> <img src="badge3.png"/> <img src="badge4.gif"/> <img src="badge5.gif"/> <img src="badge6.gif"/><img src="000010.gif"/> <img src="u3.gif"/> <img src="sun.gif"/> <img src="penguins.gif"/> <img src="netscape-as.gif"/> <img src="free.gif"/> <img src="aolsux.gif"/>
   </div>
+  <img src="flames.gif"  width="345"  height="50"/> [wishwa.dev](https://www.wishwa.dev)
 </div>
 <br/>
 
