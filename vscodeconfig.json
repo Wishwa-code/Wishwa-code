@@ -1,3 +1,4 @@
+
 {
     "workbench.iconTheme": "material-icon-theme",
     "window.systemColorTheme": "dark",
@@ -13,7 +14,6 @@
         "editor.wordBasedSuggestions": "off"
     },
     "dart.openDevTools": "flutter",
-    "codeium.enableCodeLens": "hide_x",
     "files.autoSave": "afterDelay",
     "editor.cursorBlinking": "expand",
     "editor.fontFamily": "Jetbrains Mono, Consolas, 'Courier New', monospace",
@@ -42,4 +42,83 @@
     ],
     "typescript.updateImportsOnFileMove.enabled": "always",
     "workbench.activityBar.orientation": "vertical",
+  
+      // Millisecond delay for update decorations, default 0
+      "better-comments.updateDelay": 0,
+      // Preload lines outside the visible window for better performance, default 100
+      "better-comments.preloadLines": 100,
+      // Enable/disable hightlight plain text.
+      "better-comments.highlightPlainText": false,
+      // Custom languages comments configuration
+      "better-comments.languages": [
+        {
+          "id": "proto3", // (Required) Language ID
+          "comments": { "lineComment": "//", "blockComment": ["/*", "*/"] }, // (Optional) Comment Syntax
+          "embeddedLanguages": [], // (Optional) Embedded Languages. Example for HTML: ["css", "javascript"]
+          "useDocComment": false // (Optional) Use Doc Comments
+        }
+      ],
+      // Overwrite the specified tag styles of `"better-comments.tags"` for light themes.
+      "better-comments.tagsLight": [],
+      // Overwrite the specified tag styles of `"better-comments.tags"` for dark themes.
+      "better-comments.tagsDark": [],
+      // Tags for decoration.
+      "better-comments.tags": [
+        {
+          "tag": "#",
+          "color": "#18b566",
+          "strikethrough": false,
+          "underline": false,
+          "backgroundColor": "transparent",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "tag": "!",
+          "color": "#FF2D00",
+          "strikethrough": false,
+          "underline": false,
+          "backgroundColor": "transparent",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "tag": "?",
+          "color": "#3498DB",
+          "strikethrough": false,
+          "underline": false,
+          "backgroundColor": "transparent",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "tag": "//",
+          "color": "#474747",
+          "strikethrough": true,
+          "underline": false,
+          "backgroundColor": "transparent",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "tag": ["todo", "to-do"],
+          "color": "#FF8C00",
+          "strikethrough": false,
+          "underline": false,
+          "backgroundColor": "transparent",
+          "bold": false,
+          "italic": false,
+          "multiline": true
+        },
+        {
+          "tag": "*",
+          "color": "#98C379",
+          "strikethrough": false,
+          "underline": false,
+          "backgroundColor": "transparent",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    
 }
