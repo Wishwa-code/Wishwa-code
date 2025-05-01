@@ -7,15 +7,14 @@ git images in this file was taken from <:https://github.com/sindresorhus/sindres
 
 # Hi, I’m wishwa. 👋  
 <br> 
-
 👨🏽‍🍳 React, Flutter and Go <br>📍 southside, Sri lanka
-<br>:shipit: [wishwa.dev](https://www.wishwa.dev) <br>
+<br>
 
-<br> 
-<br> 
+:shipit: [wishwa.dev](https://www.wishwa.dev/)
+<br>
+<br>
 
 # 💻 Tech Stack:
-
   <div style={{
       display: 'grid',
       gridTemplateColumns: 'repeat(auto-fit, minmax(20px, 0.7fr))',
@@ -682,17 +681,12 @@ git images in this file was taken from <:https://github.com/sindresorhus/sindres
     />
   </div>
 <br> 
-
-
-
-<br> <br> <br> <br> 
+<br> 
 
 ## Icons from : [devicon.dev](https://devicon.dev/)
 ## Gifs from  : [cyber.dabamos.de/88x31](https://cyber.dabamos.de/88x31/index.html)
 
-
-
-<br> <br> <br> <br> 
+<br> <br>
 
 <div style={{
     textAlign: 'center',
