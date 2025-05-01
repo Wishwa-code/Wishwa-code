@@ -682,9 +682,12 @@ git images in this file was taken from <:https://github.com/sindresorhus/sindres
   </div>
 <br> 
 <br> 
+    <div>
+<img src="flames.gif"  width="567"  height="50"/> 
 
-## Icons from : [devicon.dev](https://devicon.dev/)
-## Gifs from  : [cyber.dabamos.de/88x31](https://cyber.dabamos.de/88x31/index.html)
+</div>
+
+
 
 <br> <br>
 
@@ -701,12 +704,16 @@ git images in this file was taken from <:https://github.com/sindresorhus/sindres
   }}>
     <img src="counter.gif"/> <img src="badge1.gif"/> <img src="badge2.gif"/> <img src="badge3.png"/> <img src="badge4.gif"/> <img src="badge5.gif"/> <img src="badge6.gif"/><img src="000010.gif"/> <img src="u3.gif"/> <img src="sun.gif"/> <img src="penguins.gif"/> <img src="netscape-as.gif"/> <img src="free.gif"/> <img src="aolsux.gif"/>
   </div>
-  <img src="flames.gif"  width="567"  height="50"/> 
+
 
 </div>
 <br/>
 
 </div>
+
+
+## Icons from : [devicon.dev](https://devicon.dev/)
+## Gifs from  : [cyber.dabamos.de/88x31](https://cyber.dabamos.de/88x31/index.html)
 
   [wishwa.dev](https://www.wishwa.dev/)
 
