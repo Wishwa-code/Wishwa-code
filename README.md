@@ -8,7 +8,7 @@ git images in this file was taken from <:https://github.com/sindresorhus/sindres
 # Hi, I’m wishwa. 👋  
 <br> 
 
-👨🏽‍🍳 React and Flutter and Go <br>📍 Colombo,LK 
+👨🏽‍🍳 React, Flutter and Go <br>📍 Southside, sri lanka
 <br>:shipit: [wishwa.dev](https://www.wishwa.dev) <br>
 
 <br> 
