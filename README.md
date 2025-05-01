@@ -8,7 +8,7 @@ git images in this file was taken from <:https://github.com/sindresorhus/sindres
 # Hi, I’m wishwa. 👋  
 <br> 
 
-👨🏽‍🍳 React in Rust [?](https://dioxuslabs.com/) <br>📍 Colombo,LK 
+
 <br>:shipit: [wishwa.dev](https://www.wishwa.dev) <br>
 
 <br> 
